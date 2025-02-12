@@ -1,4 +1,3 @@
-<!-- TEMP CONTENT -->
 # Education Resources 2025
 The thing about programming is you've always gotta be keeping up on the latest stuff, forever. Keep growing, keep knowing! And remember to protect yourself from burn-out and physical injuries!
 
