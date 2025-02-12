@@ -1,4 +1,4 @@
-[← Return Home](/)
+[← Return Home](/edu-resources)
 
 # **Developer Tools And Resources**
 
