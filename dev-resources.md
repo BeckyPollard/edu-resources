@@ -2,17 +2,16 @@
 
 *A draft for garbagemancer.net resources list*
 
-## Tools & Apps
-* [Visual Studio Code](https://code.visualstudio.com/)
+## Tools & Apps 🛠️
+* [Visual Studio Code](https://code.visualstudio.com/) ⭐
 * [iTerm2: MacOS Terminal Emulator](https://iterm2.com/)
 * [cmder: Windows Console Emulator](https://cmder.app/)
 * [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 * [Pixie: Windows Colour Picker Utility](http://www.nattyware.com/pixie.php)
+* [CodePen: Play With, Test, Demo Code](https://codepen.io/pen)
+* [Photopea](https://www.photopea.com/) ⭐
 
-## **Playing With And Testing Code**
-* [CodePen](https://codepen.io/pen)
-
-## **Learning**
+## **Learning** 📖
 * [Codecademy](https://www.codecademy.com/)
 * [The Coding Train](https://thecodingtrain.com/)
 
@@ -26,7 +25,7 @@
 * [Learn CSS Grid: Grid Garden Game](https://cssgridgarden.com/)
 * [Meyer Reset: Reduce Browser Inconsistencies](https://meyerweb.com/eric/tools/css/reset/)
 
-## **Reference**
+## **Reference** 🔍
 * [MDN](https://developer.mozilla.org/en-US/)
 * [w3schools](https://www.w3schools.com/)
 * [CSS Flexbox Layout Guide: Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -44,10 +43,10 @@
 * [HackerNoon](https://hackernoon.com/)
 * [DEV](https://dev.to/)
 
-## **Assets**
+## **Assets** 🖼️
 
 ### **Image Manipulation**
-* [Photopea](https://www.photopea.com/)
+* [Photopea](https://www.photopea.com/) ⭐
 * [RemoveBG](https://www.remove.bg/)
 * [ezGIF](https://ezgif.com/)
 
