@@ -27,15 +27,15 @@
 * [Learn CSS Grid: Grid Garden Game](https://cssgridgarden.com/)
 * [Meyer Reset: Reduce Browser Inconsistencies](https://meyerweb.com/eric/tools/css/reset/)
 
-## **Reference** 🔍
-* [MDN](https://developer.mozilla.org/en-US/)
-* [w3schools](https://www.w3schools.com/)
-* [CSS Flexbox Layout Guide: Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
 ### **Regex**
 * [RegexOne: Learn RegEx](https://regexone.com/)
 * [RegExr: Build And Test RegEx](https://regexr.com/)
 * [RegEx Crossword Game](https://regexcrossword.com/)
+
+## **Reference** 🔍
+* [MDN](https://developer.mozilla.org/en-US/)
+* [w3schools](https://www.w3schools.com/)
+* [CSS Flexbox Layout Guide: Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### **Newsletters and Updates**
 * [Smashing Magazine](https://www.smashingmagazine.com/)
