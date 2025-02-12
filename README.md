@@ -6,7 +6,7 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates)
 
 ## Class Notes
-- [link text](comp1238.md)
+- [COMP1238](comp1238.md)
 
 ## Dev Tools
 - [CodePen](https://codepen.io/pen)
