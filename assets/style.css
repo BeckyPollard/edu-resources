@@ -1,0 +1,14 @@
+/* theme overrides test */
+
+#header_wrap, #footer_wrap {
+  background: #FF91AF;
+}
+
+header > * {
+  text-shadow: none;
+  box-shadow: none;
+}
+
+#main_content_wrap {
+  border: none;
+}
