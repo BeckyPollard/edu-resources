@@ -4,8 +4,11 @@
   background: #FF91AF;
 }
 
-header > * {
+#project_title, #project_tagline {
   text-shadow: none;
+}
+
+#forkme_banner {
   box-shadow: none;
 }
 
