@@ -12,7 +12,7 @@ The thing about programming is you've always gotta be keeping up on the latest s
 
 ## Resources 🎁
 * [Developer Resources](dev-resources.md)
-* [Garbagemancer's Toolbox](https://garbagemancer.net/tools)
+* [Garbagemancer's Dev Toolbox](https://garbagemancer.net/dev-resources)
 
 ## Class Notes 👽
 * [COMP1238](comp1238.md)
