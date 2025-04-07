@@ -5,11 +5,6 @@ The thing about programming is you've always gotta be keeping up on the latest s
 > **'Talent is a pursued interest. Anything that you're willing to practice, you can do.'**<br>
 >   — Bob Ross [The Joy Of Painting: Season 2 Episode 1](https://youtu.be/GARWowi0QXI?t=766)
 
-## Links 🔗
-* [D2L](https://learn.georgebrown.ca)
-* [AtKlass](https://app.atklass.com)
-* [Important Dates](https://www.georgebrown.ca/current-students/important-dates)
-
 ## Resources 🎁
 * [Developer Resources](dev-resources.md)
 * [Garbagemancer's Dev Toolbox](https://garbagemancer.net/dev-resources)
