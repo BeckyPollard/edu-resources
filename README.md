@@ -15,4 +15,4 @@ The thing about programming is you've always gotta be keeping up on the latest s
 * [Garbagemancer's Dev Toolbox](https://garbagemancer.net/dev-resources)
 
 ## Class Notes 👽
-* [COMP1238](comp1238.md)
+* [COMP1238: weeks 1 - 6](comp1238.md)
