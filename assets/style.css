@@ -14,4 +14,10 @@
 
 #main_content_wrap {
   border: none;
+  background: #fff;
 }
+
+#main_content_wrap img {
+  width: 100%;
+}
+
