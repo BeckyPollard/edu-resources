@@ -14,10 +14,15 @@
 
 #main_content_wrap {
   border: none;
-  background: #fff;
 }
 
-#main_content_wrap img {
+#main_content {
+  background: #fff;
+}
+#main_content img {
   width: 100%;
+}
+#main_content blockquote img {
+  width: initial;
 }
 
